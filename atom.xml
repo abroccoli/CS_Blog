@@ -4,7 +4,7 @@
   <title><![CDATA[Broc's CS Musings]]></title>
   <link href="http://abroccoli.github.io/CS_Blog/atom.xml" rel="self"/>
   <link href="http://abroccoli.github.io/CS_Blog/"/>
-  <updated>2015-03-30T16:55:35-04:00</updated>
+  <updated>2015-03-30T17:00:30-04:00</updated>
   <id>http://abroccoli.github.io/CS_Blog/</id>
   <author>
     <name><![CDATA[Anthony Broccoli]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Queues and Stacks and Sets]]></title>
+    <link href="http://abroccoli.github.io/CS_Blog/blog/2015/03/30/queues-and-stacks-and-sets/"/>
+    <updated>2015-03-30T16:58:35-04:00</updated>
+    <id>http://abroccoli.github.io/CS_Blog/blog/2015/03/30/queues-and-stacks-and-sets</id>
+    <content type="html"><![CDATA[<p>This is a test before I actually start to write!</p>
+]]></content>
+  </entry>
   
 </feed>
