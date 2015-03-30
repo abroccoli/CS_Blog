@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://abroccoli.github.io/CS_Blog/sitemap.xml 
