@@ -6,4 +6,7 @@ comments: true
 categories:
 ---
 
-This is a test before I actually start to write!
+Hello! Today marks my first baby-step back into the world of Computer Science since graduating from Syracuse last spring. I took a look at Queues, Stacks, Sets, Associative Arrays, and Arrays in an attempt to get a better grasp on the minutiae of data and be able to apply my knowledge to writing quicker and more elegant code.
+
+<h2>Stacks and Queues</h2>
+
